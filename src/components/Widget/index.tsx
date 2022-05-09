@@ -4,7 +4,7 @@ import { styles } from "./styles";
 import { TouchableOpacity } from "react-native";
 import { ChatTeardropText } from "phosphor-react-native";
 import { theme } from "../../theme";
-import BottomSheet from "@gorhom/bottom-sheet/lib/typescript/components/bottomSheet/BottomSheet";
+import BottomSheet from "@gorhom/bottom-sheet";
 import { gestureHandlerRootHOC } from "react-native-gesture-handler";
 import { Options } from "../Options";
 
